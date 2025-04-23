@@ -42,7 +42,7 @@ imodule https://raw.githubusercontent.com/Giangattt123/KTGT-Lab/refs/heads/main/
 
 - Pull docker image: `labtainer -r steg-sequence-number`
 
-![image]()
+![image](https://github.com/Giangattt123/KTGT-Lab/blob/main/images/image.png?raw=true)
 
 ##### b. Chuẩn bị
 - Môi trường: 2 container (sender/receiver) trong Labtainer
@@ -84,4 +84,4 @@ imodule https://raw.githubusercontent.com/Giangattt123/KTGT-Lab/refs/heads/main/
 - Bước 5: `Checkwork` và `stoplab`
     - Hoàn thành đủ 4 checkwork và dừng bài lab
 
-    ![image-1]()
+    ![image-1](https://github.com/Giangattt123/KTGT-Lab/blob/main/images/image-1.png?raw=true)
